@@ -1,0 +1,6 @@
+const firstTitle = document.querySelector('.title')
+const titles = document.querySelectorAll('.title')
+const lists = document.querySelectorAll('li')
+const button = document.querySelector('#button')
+const notExist = document.querySelector("#not-exist")
+console.log(firstTitle, titles, lists, button, notExist)
